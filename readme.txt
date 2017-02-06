@@ -1,5 +1,5 @@
 The aim of this project is to classify mnist handwritten data set using multiple machine learning algorithms and compare their results. This project is still under development.
-	1) Knn : Achieved an accuray of 86.02%
+	1) Knn : Achieved an accuray of 86.02% (using 60000 traning and 10000 testing samples)
 	2) Neural network : Yet to be done
 	3) logistic regression : Yet to be done
 	4) gaussian processes : Yet to be done
